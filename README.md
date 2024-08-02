@@ -4,4 +4,4 @@ which is updated every 5 seconds and the new coordinates are sent to the backend
 
 
 Screenshot:
-https://github.com/nileshshetty1/RealtimeTracker/issues/1#issue-2445121807
+![Screenshot (9)](https://github.com/user-attachments/assets/2706fd8e-b870-4315-bcde-18333e32b167)
